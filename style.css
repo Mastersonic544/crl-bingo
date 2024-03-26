@@ -259,3 +259,36 @@ h1{
 #restart:active{
     animation: pop .1s forwards;
 }
+
+#title{
+    text-align: center;
+}
+
+#navbar{
+    width: 500px;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.bt{
+    background-color: orange;
+    border-radius: 5px;
+    padding-right: 25px;
+    padding-left: 25px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-width: 2px;
+    border-color: white;
+    box-shadow: 10px 5px 5px black;
+    outline: auto;
+    font-size: 22px;
+}
+
+
+.bt:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
