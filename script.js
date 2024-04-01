@@ -40,7 +40,7 @@ function beginning(){
 }
 
 function info(){
-    alert("Open CRL and start playing\nAt the end of each match click on the cards your opponent has used\nYou win once youhave encoutered all 25 cards in the bingo table\nHappy grinding sodier and good luck youre gonna need it :)")
+    alert("Open CRL and start playing\nAt the end of each match click on the cards your opponent has used\nYou win once you have encoutered all 25 cards in the bingo table\nHappy grinding sodier and good luck youre gonna need it :)")
 }
 
 
